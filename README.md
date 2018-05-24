@@ -1,6 +1,9 @@
 # git101
 Git tutorial
 
+Other useful tutorials:
+[https://try.github.io/](https://try.github.io/)
+
 ## Step 1 - install git
 Install and configure your git
 
@@ -34,7 +37,7 @@ git checkout -b new-feature-branch
 
 ## Step 5 - add yourself to the graduates
 
-Open and modify index.html (add your name there)
+Open and modify index.html (add your name there).
 
 ## Step 6 - add, commit and push your changes
 
