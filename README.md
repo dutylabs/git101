@@ -3,6 +3,8 @@ Git tutorial
 
 Other useful tutorials:
 [https://try.github.io/](https://try.github.io/)
+[https://www.atlassian.com/git/tutorials](https://www.atlassian.com/git/tutorials)
+[https://www.tutorialspoint.com/git/index.htm](https://www.tutorialspoint.com/git/index.htm)
 
 ## Step 1 - install git
 Install and configure your git
