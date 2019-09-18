@@ -44,8 +44,13 @@ Open and modify index.html (add your name there).
 ## Step 6 - add, commit and push your changes
 
 ```
+# add all your changes
 $ git add -A
+# commit the changes
 $ git commit -m "Added myself to the index.html page"
+# get the latest changes from master
+$ git pull origin master
+# Push your changes
 $ git push -u origin new-feature-branch
 ```
 
@@ -55,3 +60,19 @@ Open https://github.com/dutylabs/git101 in your browser
 Your new branch should pop up at above the repo files
 Click `New pull request`
 
+
+## Step 8 - Wait for Review on the Pull Request
+
+After creating the pull request, ping someone from the team to review it and merge.
+
+## Step 9 - Go back to master
+
+After the PR has been merged, it's time to go back to master.
+
+```
+# First, change to master
+$ git checkout master
+# Then, grab the latest changes from the repository
+$ git pull origin master
+# when you need to create another feature, go back to step 1.
+```
