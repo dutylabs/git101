@@ -10,7 +10,6 @@ Other useful tutorials:
 Install your git
 
 Make sure it works
-
 ```bash
 $ git
 ```
