@@ -7,7 +7,7 @@ Other useful tutorials:
 [https://www.tutorialspoint.com/git/index.htm](https://www.tutorialspoint.com/git/index.htm)
 
 ## Step 1 - install git
-Install and configure your git
+Install your git
 
 ## Step 2 - configure git
 
