@@ -9,6 +9,12 @@ Other useful tutorials:
 ## Step 1 - install git
 Install your git
 
+Make sure it works
+
+```bash
+$ git
+```
+
 ## Step 2 - configure git
 
 [Tutorial](https://help.github.com/articles/setting-your-username-in-git/)
